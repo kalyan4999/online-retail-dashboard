@@ -3,7 +3,7 @@
 An end-to-end data analytics and business intelligence application that cleans transaction data, stores it in a structured SQL database, and serves an interactive web dashboard for real-time performance tracking.
 
 ## 🚀 Live Demo
-👉 **[Insert your Streamlit live link here once deployed]**
+👉 **https://online-retail-dashboard-ix87j54fqpgyvs3we9px9f.streamlit.app/**
 
 ---
 
